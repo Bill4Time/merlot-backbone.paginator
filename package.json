@@ -1,13 +1,13 @@
 {
-  "name": "backbone.paginator",
-  "version": "2.0.8",
+  "name": "@bill4time/merlot-backbone.paginator",
+  "version": "2.1.0",
   "description": "A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.",
   "main": "lib/backbone.paginator.js",
   "module": "src/backbone.paginator.js",
   "homepage": "https://backbone-paginator.github.io/backbone.paginator/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/backbone-paginator/backbone.paginator.git"
+    "url": "git://github.com/Bill4Time/merlot-backbone.paginator"
   },
   "keywords": [
     "backbone"
